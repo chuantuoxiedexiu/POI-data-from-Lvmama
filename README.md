@@ -1,4 +1,4 @@
-# POI-data-from-Lvmama
+
 This project can help you crawl scenic spot data in  Lvmama.
 
 This data set contains all the citys in China, such as Shanghai BeiJing and so on.
