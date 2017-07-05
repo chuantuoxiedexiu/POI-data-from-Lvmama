@@ -1,6 +1,6 @@
 import re
 import os
-
+import urllib2
 import string
 class Spider(object):
     def __init__(self):
