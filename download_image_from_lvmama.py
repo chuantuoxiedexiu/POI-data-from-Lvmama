@@ -2,6 +2,7 @@ import os
 import re
 import time
 import urllib
+import requests
 import urllib2
 def crow_url(city):
         citypath="d:\\spider\\"+city+"图片\\"
